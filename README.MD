@@ -9,3 +9,6 @@ Final Project using Docker, Python, Git, Flask, MySQL, Postman
 
 ## MySQL SSs
 ![pycharm data query](screenshots/query.png)
+
+## Postman SSs
+![pycharm data query](screenshots/postman.png)
